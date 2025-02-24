@@ -49,7 +49,7 @@ pip install beautifulsoup4 requests csv pandas sqlalchemy mysql-connector-python
 1. Clone the repository:
 
 ```bash
-https://github.com/SALMASAID1/Yallakora-ETL-Pipeline.git
+pip clone https://github.com/SALMASAID1/Yallakora-ETL-Pipeline.git
 ```
 
 2. Scrape data from Yallakora and store it in a CSV file:
